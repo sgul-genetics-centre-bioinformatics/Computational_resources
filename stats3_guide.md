@@ -62,4 +62,6 @@ Inside this directory you can find:
     e.g. ~/Mimir/Genetics_Centre_Bioinformatics_Mimir/resources/samtools-1.8/samtools view sample1.bam
   - All reference files (like genome references) should be downloaded/placed inside resources/Genome_reference_files directory.
 
+## D. How to run commands on STATS3
+STATS3 runs a simple Linux CentOS distribution without a job scheduler. That means that you can run light or heavy jobs on the terminal which use single or multiple cores and monitor them using the command ```top```
 
