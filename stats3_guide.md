@@ -9,7 +9,7 @@ If you are on an SGUL PC:
 + Click on the MobaXterm and install it
 
 If you are on your own computer:
-- Download this: https://download.mobatek.net/1212019080215819/MobaXterm_Installer_v12.1.zip
+- Download this: https://download.mobatek.net/2032020060430358/MobaXterm_Installer_v20.3.zip
 - Unzip it (Right click on the downloaded file -> Extract Here)
 - Install it (Double click the extacted installer)
 
